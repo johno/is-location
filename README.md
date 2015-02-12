@@ -1,6 +1,6 @@
 # is-location [![Build Status](https://secure.travis-ci.org/johnotander/is-location.png?branch=master)](https://travis-ci.org/johnotander/is-location)
 
-Check whether an object is a window.location, or at least quacks like one.
+Check whether an object is a `window.location`, or at least quacks like one.
 
 ## Installation
 
