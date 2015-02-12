@@ -14,7 +14,11 @@
     "type": "git",
     "url": "https://github.com/johnotander/is-location.git"
   },
-  "keywords": [],
+  "keywords": [
+    "location",
+    "window",
+    "is-location"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/johnotander/is-location/issues"

@@ -13,7 +13,8 @@ npm install --save is-location
 ```javascript
 var isLocation = require('is-location');
 
-isLocation();  // => true
+isLocation(window.location);  // => true
+isLocation(somethingElse);    // => false
 ```
 
 ## License
