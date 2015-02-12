@@ -1,0 +1,29 @@
+{
+  "name": "is-location",
+  "description": "Check whether an object is a window.location, or at least quacks like one.",
+  "author": "John Otander",
+  "version": "0.0.1",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnotander/is-location.git"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnotander/is-location/issues"
+  },
+  "homepage": "https://github.com/johnotander/is-location",
+  "dependencies": {
+    "is-url": "^1.2.0"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
